@@ -34,7 +34,7 @@ var fs = require('fs');
   //initialize
   dict.init = function () {
 
-    var data = fs.readFileSync(__dirname+'/GBK-dict.txt', 'utf8');
+    var data = fs.readFileSync(__dirname+'/GBK.txt', 'utf8');
 
     var index = {};
     var nextline = 0;
