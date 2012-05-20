@@ -1,0 +1,17 @@
+{
+  "author": "saighost <saighost@qq.com> (https://github.com/saighost)",
+  "name": "gbk-dict",
+  "description": "a gbk to utf8 dictionary and tool for converting gbk buffer to utf-8 string",
+  "version": "0.0.1",
+  "homepage": "https://github.com/saighost/node-gbk-dict",
+  "repository": {
+    "url": "git://github.com/saighost/node-gbk-dict.git"
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
