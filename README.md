@@ -7,7 +7,7 @@ http://saighost.github.com/node-gbk-dict
 
 Installing with npm
 ---------------
-	npm install iconv
+	npm install gbk-dict
 
 Usage
 ---------------
