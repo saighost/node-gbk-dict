@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/saighost/node-gbk-dict.png)](http://travis-ci.org/saighost/node-gbk-dict)
 gbk-dict
 ==================
 
